@@ -1,0 +1,27 @@
+{
+  "name": "myBlog",
+  "version": "1.0.0",
+  "description": "Lichao's Blog",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "deploy": "bash deploy.sh"
+  },
+  "keywords": [],
+  "author": "lichao",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lichao-wang/vuepressBlog.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lichao-wang/vuepressBlog/issues"
+  },
+  "homepage": "https://github.com/lichao-wang/vuepressBlog#readme"
+}
